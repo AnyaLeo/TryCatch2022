@@ -76,7 +76,8 @@ def update():
         # Make them appear on the left side
         if alien.left >= WIDTH:
             alien.right = 0
-    elif keyboard.left:
+
+    if keyboard.left:
         alien.left -= alien_speed
 
         # If player goes off the left side of the screen
