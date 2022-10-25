@@ -9,6 +9,8 @@ To try out the code:
 2. Unzip the folder on your computer
 3. Open game.py file with the Mu editor (you'll have to first open your Mu editor, and then click on "Load" button)
 
+The **wonderful background** (that you can find in "images" folder) has been made possible thanks to a fun online tool on itch.io - https://deep-fold.itch.io/space-background-generator
+
 # What the project looks like
 
 https://user-images.githubusercontent.com/25494973/197673829-eda1742b-b63b-48f3-bc87-7d47b0b5dfa8.mp4
